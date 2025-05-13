@@ -9,6 +9,6 @@ package chap02
 
 //これはコメントです。
 //何でも好きなことを書いてください。
-fun main(args: Array<String>) {
+fun main() {
     println("Hello, world!")
 }
