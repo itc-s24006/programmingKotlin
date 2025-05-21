@@ -1,5 +1,6 @@
 package chap17
 
+//List リスト
 fun main() {
     val a: List<Int> = listOf(1000, 1200, 1500)
 
